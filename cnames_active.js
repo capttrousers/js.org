@@ -3284,6 +3284,7 @@ var cnames_active = {
   "termi": "wearetermi.github.io/termi",
   "terminal": "gottox.github.io/terminal.js", // noCF? (don´t add this in a new PR)
   "tess": "det171.github.io/Tess.js",
+  "test": "capttrousers.github.io/test",
   "testframe": "testingrequired.github.io/testframe",
   "testio": "yavrumian.github.io/test.io",
   "tetr": "proximitynow19.github.io/TETR.JS",
